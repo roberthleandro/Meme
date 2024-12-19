@@ -63,6 +63,8 @@ body {
 
 #game-over {
   position: absolute;
+  font-size: clamp(10px,3vh,6vh);
+  width: 35vh;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
