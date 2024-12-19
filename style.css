@@ -31,14 +31,14 @@ body {
   cursor: pointer;
   text-align: center;
   top: 20vh;
-  right: 15vh;
+  right: 25%;
 }
 #sim{
   font-size: clamp(20px,4vh,9vh);
   border-radius: 10px;
   position: absolute;
   top: 20vh;
-  left: 15vh;
+  left: 25%;
   width: 10vh;
   height: 5vh;
   background-color: white;
